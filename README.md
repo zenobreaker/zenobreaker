@@ -16,8 +16,9 @@ Here are some ideas to get you started:
 -->
 
 #### Skills 
-<p>
-<img src="https://img.shields.io/badge/c#-512BD4?style=for-the-badge&logo=csharp&logoColor=white">
+<p align = "center">
+  <img src="https://img.shields.io/badge/c#-512BD4?style=for-the-badge&logo=csharp&logoColor=white">
+  <img src="https://img.shields.io/badge/Visual Studio Code-fff?style=for-the-badge&logo=Visual Studio Code&logoColor=34ace0">
 </p>
 
 #### Tools
