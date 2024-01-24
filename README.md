@@ -1,4 +1,20 @@
-### 꿈을 만드는 게임 개발자입니다. 👋
+### <p align="center"> 꿈을 만드는 게임 개발자입니다. 👋 </p>
+-------------------------------------------------------------
+
+#### <p align="center"> Skills🌱 </p>
+<p align="center">
+  <img src="https://img.shields.io/badge/C%23-512BD4?style=flat&logo=csharp&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white"/>
+</p>
+
+#### <p align="center"> Tools🔭 </p>
+<p align="center">
+  <img src = "https://img.shields.io/badge/Unity-000000?style=flat&logo=unity&logoColor=white"/>
+</p>
+
+| [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zenobreaker&layout=compact)](https://github.com/zenobreaker/github-readme-stats) | ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zenobreaker&show_icons=true&theme=radical)
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------- |
+
 
 <!--
 **zenobreaker/zenobreaker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,13 +30,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-#### Skills 
-
-  <img src="https://img.shields.io/badge/-C%23-000000?logo=Csharp&logoColor=white"/>
-   
-  <img src="https://img.shields.io/badge/Visual Studio Code-fff?style=for-the-badge&logo=Visual Studio Code&logoColor=white">
-
-
-#### Tools
-<img src="https://img.shields.io/badge/unity-000000?style=for-the-badge&logo=unity&logoColor=white">
