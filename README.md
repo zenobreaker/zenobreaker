@@ -16,8 +16,8 @@ Here are some ideas to get you started:
 -->
 
 #### Skills 
-<img src="https://img.shields.io/badge/csharp-512BD4?style=flat&logo=csharp&logoColor=white"/>
+<img src="https://img.shields.io/badge/csharp-512BD4?style=for-the-badge&logo=csharp&logoColor=white"/>
 
 
 #### Tools
-<img src="https://img.shields.io/badge/unity-000000?style=flat&logo=unity&logoColor=white"/>
+<img src="https://img.shields.io/badge/unity-000000?style=for-the-badge&logo=unity&logoColor=white"/>
