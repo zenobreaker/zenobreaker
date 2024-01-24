@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-##Skills 
+## Skills 
 <img src="https://img.shields.io/badge/csharp-512BD4?style=flat&logo=TypeScript&logoColor=white"/>
 <img alt="Static Badge" src="https://img.shields.io/badge/:badgeContent">
 
-##Tools
+## Tools
 <img src="https://img.shields.io/badge/unity-000000?style=flat&logo=TypeScript&logoColor=white"/>
