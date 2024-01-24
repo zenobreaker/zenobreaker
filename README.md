@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 꿈을 만드는 게임 개발자입니다. 👋
 
 <!--
 **zenobreaker/zenobreaker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+##Skills 
+ <img src="https://img.shields.io/badge/csharp-512BD4?style=flat&logo=TypeScript&logoColor=white"/>
+
+
+##Tools
+ <img src="https://img.shields.io/badge/unity-000000?style=flat&logo=TypeScript&logoColor=white"/>
